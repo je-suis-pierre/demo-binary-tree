@@ -4,7 +4,7 @@
 *             in different countries. And then output
 *             the analysed data into a file.
 *
-*  By   : Pierre Chow
+*  By   : Pierre
 *  Date : 01/07/2014
 *******************************************************/
 #include <stdio.h>
